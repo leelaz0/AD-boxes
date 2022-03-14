@@ -1,2 +1,3 @@
-# AD-rooms
-write-ups for some AD-related rooms
+# AD-boxes
+This repo contains write-ups for some AD-related boxes. The following boxes are documented:
+- wreath (THM: https://tryhackme.com/room/wreath)
